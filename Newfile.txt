@@ -3,3 +3,4 @@ On branch main
 
 Test text - branch-test
 
+Add same text.
